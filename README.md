@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ankit2020bhagat
 - 👀 I’m interested in Wev Developer
-- 🌱 I’m currently learning javascripts,React,nodejs,mongoDB
+- 🌱 I’m currently learning javascripts,Reactjs,Nextjs,nodejs,mongoDB
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me animusk7765@gmail.com
 
